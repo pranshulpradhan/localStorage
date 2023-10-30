@@ -1,0 +1,13 @@
+.board{
+    height: max-content;
+    width: max-content;
+    justify-content: center;
+    position: relative;
+    border: 2px solid red;
+    left: 75%;
+}
+
+body{
+    display: flex;
+    position: absolute;
+}
